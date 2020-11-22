@@ -1,4 +1,5 @@
 import arcpy, os
+import matplotlib.pyplot as plt
 
 arcpy.env.overWriteOutput = True
 
