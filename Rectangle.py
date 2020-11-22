@@ -1,8 +1,8 @@
 import arcpy
-
+import os
+import math
 def main():
-    import os
-
+    
     arcpy.env.overwriteOutput = True
 
     # input dbf file, edit this !!!
